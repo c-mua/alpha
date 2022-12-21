@@ -1,0 +1,4 @@
+This is just a randoom text doc that will go to the repo.
+
+Just testing the power of git for now...
+
